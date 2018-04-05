@@ -4,15 +4,15 @@
 # directory to store GIT sources
 SRCROOTDIR=/home/users/quake/src/_official
 # full path(s) to mvdsv binary currently installed in your system
-LOC_MVDSV="/home/users/quake/q1/mvdsv"
+LOC_MVDSV="/home/ubuntu/nquakesv/mvdsv"
 # full path(s) to ktx binary currently installed in your system
-LOC_KTX="/home/users/quake/q1/ktx/qwprogs.so /home/users/quake/q1/ffa/qwprogs.so"
+LOC_KTX="/home/ubuntu/nquakesv/ktx/qwprogs.so /home/ubuntu/nquakesv/ffa/qwprogs.so"
 # full path to mvdparser binary currently installed in your system
 LOC_MVDPARSER=
 # full path to qtv binary currently installed in your system
-LOC_QTV=
+LOC_QTV=/home/ubuntu/nquakesv/qtv
 # full path to qwfwd binary currently installed in your system
-LOC_QWFWD=
+LOC_QWFWD=/home/ubuntu/nquakesv/qwfwd
 # automatically update sources?
 AUTOUPDATE=no
 # debug: 0=no, anything else=yes
